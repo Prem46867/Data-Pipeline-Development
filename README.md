@@ -28,3 +28,4 @@ Overall, this script provides a clean and efficient example of how to preprocess
 
 output of the task :
 
+<img width="866" height="482" alt="Image" src="https://github.com/user-attachments/assets/3ae5c3ea-8e17-4484-b0ce-df47cbb25550" />
